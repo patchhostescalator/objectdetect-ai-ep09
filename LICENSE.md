@@ -1,4 +1,4 @@
-# 
+# VIP ObjectDetect guide. Téléchargez et installez avec binaires vérifiés et sans dépendances — rapide, sécurisé et facile à utiliser.
 
 
 
